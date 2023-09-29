@@ -1,7 +1,7 @@
 # Calvin Bell
 👋 Hi, I’m @calvintb
 
-##EDUCATION / ACADEMIC STATUS
+## EDUCATION / ACADEMIC STATUS
 Utah State University, College of Science
   Bachelor of Computer Science
     Graduating in May 2024
