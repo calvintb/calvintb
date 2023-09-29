@@ -18,7 +18,7 @@ Utah State University, College of Science
 - SQL, MySQL
 - Web Developer
 - Leader
-- 
+
 ## PERSONAL PROJECT SHOWCASE
 Time’s Up Game (Full-stack personal project)
 - Planned an entire project increasing organization and efficiency
