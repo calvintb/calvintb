@@ -5,7 +5,7 @@
 Utah State University, College of Science
   Bachelor of Computer Science
     Graduating in May 2024
-• 3.87 GPA while working 25 hours per week
+• 3.92 GPA while working 25 hours per week
 • Member of Free Software and Linux club
 ## SKILLS
 - Python, JavaScript, Java
